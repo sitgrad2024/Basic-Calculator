@@ -1,4 +1,4 @@
-# Andre's C++ Calculator
+# Andre's Basic Calculator in C++
 
 A simple console-based andre_calculator_yokogawa application written in C++. This project demonstrates clean code structure by separating the computational logic (via the `Calculator` class) from the user interface and program flow (via the `Calculator_Application` class).
 
